@@ -1,8 +1,11 @@
 // Kruskal's algorithm in C++
 
-#include <algorithm>
+#include <algorithm.h>
+
 #include <iostream.h>
-#include <vector>
+
+#include <vector.h>
+
 using namespace std;
 
 #define edge pair<int, int>
